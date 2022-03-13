@@ -1,5 +1,3 @@
-### page HTML/CSS
-#### Navbar/Burger menu responsive et animé
-#### Fait en CSS sans JS
+### Navbar/Burger menu responsive et animé. Fait en CSS sans JS
 
 ![sreenshot](screenshot1.gif)

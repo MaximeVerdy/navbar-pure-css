@@ -1,4 +1,4 @@
 ### page HTML/CSS
-#### Navbar responsive et animée en CSS uniquement
+#### Navbar/Burger menu responsive et animé en CSS uniquement
 
-![sreenshot](screenshot.gif)
+![sreenshot](screenshot1.gif)
